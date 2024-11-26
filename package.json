@@ -1,6 +1,5 @@
 {
-  "name": "to-do-list",
-  "version": "1.0.0",
+  "name": "ping",
   "description": "",
   "main": "index.js",
   "scripts": {
